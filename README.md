@@ -21,7 +21,7 @@
 ```
 **Output**
 ```
-X1 = 1; X2 = 0; X3 = 1
+X1 = False; X2 = False; X3 = True
 ```
 ## Implementation Details
 
